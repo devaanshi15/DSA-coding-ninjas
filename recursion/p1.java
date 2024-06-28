@@ -1,3 +1,5 @@
+//Factorial problem
+
 public class p1 {
     public static int factorial(int n){
         if(n==0){
